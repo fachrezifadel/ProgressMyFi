@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "299361145801",
+    "firebase_url": "https://myfinance-8b6ea.firebaseio.com",
+    "project_id": "myfinance-8b6ea",
+    "storage_bucket": "myfinance-8b6ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299361145801:android:f0caec1d1add72fc",
+        "android_client_info": {
+          "package_name": "android.lalita.com.myfi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299361145801-ul9g8dpe9i0udssa2bvlnj2t80nmdc6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "android.lalita.com.myfi",
+            "certificate_hash": "6be36df9d4a3be3281791604ac6ded8e6de13893"
+          }
+        },
+        {
+          "client_id": "299361145801-oec0sf6q7ipll2pop8aav5f733o0j5rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxwoOtaWbYKZ7pgUm7WXXFQ_C7dMXnYeU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299361145801-oec0sf6q7ipll2pop8aav5f733o0j5rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
